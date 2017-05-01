@@ -1,0 +1,22 @@
+{
+  "name": "tic-tac-toe",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/nkbelow/tic-tac-toe.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/nkbelow/tic-tac-toe/issues"
+  },
+  "homepage": "https://github.com/nkbelow/tic-tac-toe#readme",
+  "dependencies": {
+    "webpack": "^2.4.1"
+  }
+}
