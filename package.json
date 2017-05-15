@@ -4,7 +4,7 @@
   "description": "",
   "main": "index.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "start": "node tic-tac-toe.js"
   },
   "repository": {
     "type": "git",
@@ -17,6 +17,5 @@
   },
   "homepage": "https://github.com/nkbelow/tic-tac-toe#readme",
   "dependencies": {
-    "webpack": "^2.4.1"
   }
 }
